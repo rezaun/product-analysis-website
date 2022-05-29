@@ -3,7 +3,7 @@ nav{
     gap: 10px;
     justify-content: space-between;
     background-color: #cdcdcd;
-    margin: 2% auto;
+    margin: 0 auto;
     padding: 2% 100px;    
 }
 .logo{
@@ -23,8 +23,12 @@ nav{
     font-weight: bold;
     
 }
+.menu a:hover{
+    color: tomato;
+    
+}
 .active-menu{
-    color: #e53333;
+    color: tomato;
 }
 .link{
     color: #000;
