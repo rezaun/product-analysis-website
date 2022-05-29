@@ -1,0 +1,31 @@
+nav{
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+    background-color: #cdcdcd;
+    margin: 2% auto;
+    padding: 2% 100px;    
+}
+.logo{
+    display: flex;
+    align-items: center;
+}
+.logo img{
+    width: 80px
+}
+.menu{
+    display: flex;
+    align-items: center;
+}
+.menu a{
+    margin-right: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+.active-menu{
+    color: #e53333;
+}
+.link{
+    color: #000;
+}
