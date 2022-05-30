@@ -1,0 +1,25 @@
+.home{
+    /* display: flex;
+    justify-content: space-between;*/
+    gap: 50px; 
+    display: grid;
+    grid-template-columns: 1fr 40%;
+    padding: 0 100px;
+}
+.home h1{
+    text-align: center;
+    margin-top: 5%;
+}
+.home p{
+    text-align: justify;
+    margin-top: 5%;
+}
+.home-image img{
+    width: 100%;
+    margin-top: 25%;
+    border-radius: 10px;
+}
+.home-review h1{
+    text-align: center;
+    margin-top: 5%;
+}
