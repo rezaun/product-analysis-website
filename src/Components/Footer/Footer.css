@@ -12,3 +12,7 @@
     color: tomato;
     font-weight: bold;
 }
+
+.footer a:hover{
+    color: #fff;
+}
