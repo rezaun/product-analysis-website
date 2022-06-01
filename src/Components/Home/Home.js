@@ -5,9 +5,10 @@ import './Home.css'
 const Home = () => {
     return (
         <>
+         <h1>Welcome to Burger Review </h1>
         <div className='home'>
             <div className="home-title">
-                <h1>Welcome to Burger Review </h1>
+               
                 <p>
                 This place has become one of my favorite spots to get a quality burger. From the staff to the food, this location is the place to go for 
                 lunch or dinner (I won't judge ).  If you are dining in, the service might seem slow but that is because all of the burgers are made to order. The main room 

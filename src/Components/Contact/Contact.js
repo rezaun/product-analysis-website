@@ -5,22 +5,31 @@ const Contact = () => {
     return (
         <div className='contact'>
             <h1>Contact With Us</h1>
-            <form >               
+            <form >          
                
                 <table>
                     <tr>
                         <th>Name: </th>
-                        <td><input type="text"  placeholder='Name'/></td>
+                        <td><input type="text"  placeholder='Your Name'/></td>
                     </tr>
                     <tr>
                         <th>Email: </th>
-                        <td><input type="text"  placeholder='Name'/></td>
+                        <td><input type="email"  placeholder='Your Email'/></td>
                     </tr>
                     <tr>
                         <th>Message: </th>
-                        <td><textarea></textarea></td>
+                        <td><textarea placeholder='Your Message'></textarea></td>
                     </tr> 
-                    <button>Submit</button>
+                    <tr>
+                        <th>
+                           
+                        </th>
+                        <td>
+                             <button className='submitBtn' type='submit'>Submit</button>
+                        </td>
+                         
+                    </tr>
+                   
                 </table>
                 
             </form>
