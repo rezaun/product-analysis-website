@@ -9,7 +9,6 @@
 * Designed 404 page
 * Answers 3 simple question in the blog page
 * create a contact from in the contact page
-* 
 
 
 # Getting Started with Create React App
