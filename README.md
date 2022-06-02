@@ -1,3 +1,9 @@
+# Site Name: Burger Review Site
+>> List of work procedure
+* Create json file
+* Create NavLink and active route using react router
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
