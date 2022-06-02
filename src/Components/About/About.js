@@ -34,9 +34,7 @@ const About = () => {
             with a focus on dependability and review. We're working to turn our passion for review into a booming online website. We hope you enjoy our review as much as we enjoy offering them 
             to you.
 
-            <p>I will keep posting more important posts on my Website for all of you. Please give your support and love.</p>
-
-            
+            <p>I will keep posting more important posts on my Website for all of you. Please give your support and love.</p>            
 
             
             </div>
