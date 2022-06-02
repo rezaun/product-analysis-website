@@ -3,6 +3,7 @@ import homeImage from '../../Assets/Images/home-page.png'
 import './Home.css'
 
 const Home = () => {
+    
     return (
         <>
          <h1>Welcome to Burger Review </h1>

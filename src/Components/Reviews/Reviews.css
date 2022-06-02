@@ -1,4 +1,11 @@
 .reviews{
     padding: 0 100px;
     margin-top: 5%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    margin-bottom: 5%;
+}
+.single-product{
+    margin-bottom: 22%;
 }
