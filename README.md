@@ -1,9 +1,15 @@
-# Site Name: Burger Review Site
- [Named Link](http://www.google.fr/ "Named link title")
+# Burger Review Site
+ [Burger Review ](https://burger-review.netlify.app/ "Burger Review ")
 ### List of work procedure
 
 * Create json file
 * Create NavLink and active route using react router
+* Create Five pages
+* Same Header and footer for all of the pages.
+* Designed 404 page
+* Answers 3 simple question in the blog page
+* create a contact from in the contact page
+* 
 
 
 # Getting Started with Create React App
