@@ -1,0 +1,14 @@
+.about-us{
+    padding: 0 100px;
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    
+}
+ h2{
+    margin: 2% auto;
+    text-align: center;
+}
+.about-us-left, .about-us-right{
+    text-align: justify;
+}
