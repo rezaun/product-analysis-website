@@ -7,6 +7,8 @@ import Navbar from './Components/Navbar/Navbar';
 import NotFound from './Components/NotFound/NotFound';
 import Footer from './Components/Footer/Footer';
 import Contact from './Components/Contact/Contact';
+import Charts from './Components/Charts/Charts'
+import About from './Components/About/About';
 
 function App() {
   return (
@@ -14,6 +16,8 @@ function App() {
       <Navbar/>
       <Routes>
         <Route path='/' element={<Home/>}/>
+        <Route path='/about' element={<About/>}/>
+        <Route path='/charts' element={<Charts/>}/>
         <Route path='/reviews' element={<Reviews/>}/>
         <Route path='/blogs' element={<Blog/>}/>
         <Route path='/contact' element={<Contact/>}/>
